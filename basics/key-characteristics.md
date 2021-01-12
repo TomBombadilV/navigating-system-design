@@ -88,7 +88,7 @@ The complexity of operations supported by distributed data structures (e.g., sea
   <summary>Click to expand summary.</summary>
   
 - Easiness to operate and maintain the system.
-- Simplicity and spend with which a system can be repaired or maintained.
+- Simplicity and speed with which a system can be repaired or maintained.
 
 </details>
 
