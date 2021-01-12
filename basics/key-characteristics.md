@@ -13,7 +13,7 @@ Key characteristics of a distributed system include:
   <summary>Click to expand summary.</summary>
   
 - The capability of a system to grow and manage increased demand.
-- A system that can continuously evolve to support growing amount of work is scalable.
+- A system that can continuously evolve to support a growing amount of work is scalable.
 - Horizontal scaling: by adding more servers into the pool of resources.
 - Vertical scaling: by adding more resource (CPU, RAM, storage, etc) to an existing server. This approach comes with downtime and an upper limit.
 
